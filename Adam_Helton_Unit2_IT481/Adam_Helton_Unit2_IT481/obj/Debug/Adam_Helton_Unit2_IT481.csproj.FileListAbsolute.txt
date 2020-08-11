@@ -1,0 +1,10 @@
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\obj\Debug\Adam_Helton_Unit2_IT481.csprojAssemblyReference.cache
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\obj\Debug\Adam_Helton_Unit2_IT481.Form1.resources
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\obj\Debug\Adam_Helton_Unit2_IT481.Properties.Resources.resources
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\obj\Debug\Adam_Helton_Unit2_IT481.csproj.GenerateResource.cache
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\obj\Debug\Adam_Helton_Unit2_IT481.csproj.CoreCompileInputs.cache
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\bin\Debug\Adam_Helton_Unit2_IT481.exe.config
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\bin\Debug\Adam_Helton_Unit2_IT481.exe
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\bin\Debug\Adam_Helton_Unit2_IT481.pdb
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\obj\Debug\Adam_Helton_Unit2_IT481.exe
+C:\Users\helto\source\repos\Adam_Helton_Unit2_IT481\Adam_Helton_Unit2_IT481\obj\Debug\Adam_Helton_Unit2_IT481.pdb
