@@ -13,7 +13,7 @@ namespace Adam_Helton_Unit2_IT481
         SqlConnection cnn;
         public DB()
         {
-            connectionString = ("Server = DESKTOP-DOUST62\\SQLEXPRESS;" +
+            connectionString = ("Server = **********;" +
                 "Trusted_Connection=true;" +
                 "Database=northwind;" +
                 "User Instance=false;");
