@@ -28,7 +28,7 @@ namespace Adam_Helton_Unit2_IT481
 
         private void button1_Click(object sender, EventArgs e)
         {
-            database = new DB("Server = DESKTOP-DOUST62\\SQLEXPRESS; " +
+            database = new DB("Server = ***************; " +
                 "Trusted_Connection=true;" +
                 "Database=northwind;" +
                 "User Instance=false;");
